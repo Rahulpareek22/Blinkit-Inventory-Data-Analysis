@@ -89,9 +89,9 @@ The dataset contains:
 
 ```
  Blinkit-Inventory-Analysis
-│──  new_project.ipynb
+│──  Blinkit Inventory Data Analysis.ipynb
 │──  README.md
-│──  dataset.csv 
+│──  blinkit_dataset.csv 
 ```
 
 ---
@@ -101,7 +101,7 @@ The dataset contains:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/blinkit-inventory-analysis.git
+git clone https://github.com/Rahulpareek22/blinkit-inventory-analysis.git
 ```
 
 2. Navigate to the project folder
